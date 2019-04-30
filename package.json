@@ -1,0 +1,11 @@
+{
+  "name": "notif",
+  "version": "0.0.0",
+  "keywords": [],
+  "description": "Extension for particle effects in Hyper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganintech/notif.git"
+  },
+  "dependencies": {}
+}
